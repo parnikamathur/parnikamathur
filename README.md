@@ -2,11 +2,11 @@
 
 ### 🚀 About me
 
-🎓 I am Mitali Dixit, a Web3 enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
+🎓 I am Parnika Mathur, a Web3 enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
 
-👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I dedicated most of my time in learning and building on Web3 projects and now I am looking for learning other skills. I am also into competitve programming and I love solving DSA problems.
+👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I am also into competitve programming and I love solving DSA problems.
 
-♛ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dancing, sketching, designing to playing chess.
+♛ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dancing, reading novels and listening to music.
 
 ### 🛠️ Skills
 
