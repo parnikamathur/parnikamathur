@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-🎓 I am Parnika Mathur, a Web3 enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
+🎓 I am Parnika Mathur, a DSA enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2026.
 
 👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I am also into competitve programming and I love solving DSA problems.
 
